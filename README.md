@@ -2,4 +2,18 @@
 
 ![](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
 
-Your content goes here
+Computer vision can be used in remote sensing geographic information system (GIS) for natural disaster management. Some computer vision methods that can be used are feature extraction, classification methods, change detection, and Support Vector Machines (SVMs). 
+These methods are discussed and demonstrated in the following sources:
+-	Survey of computer vision-based natural disaster warning systems, by ByoungChul Ko and Sooyeong Kwak 
+-	Satellite remote sensing as a tool in disaster management and sustainable development: toward a synergistic approach, by Olalekan Mumin Bello, Yusuf Adedoyin Aina
+-	UAV strategies validation and remote sensing data for damage assessment in post-disaster scenarios by A. Calantropio, F. Chiabrando, G Sammartano, A. Spano, L. Teppati Lose
+
+Feature extraction is a computer vision method where identification and extraction of specific features or patterns is derived from an image. Typically, the edges, corners, and texture of that image are analyzed. (Pakalniskis, 5) This process can be automatic or semi-automatic. This method was used for post damage assessment with the goal of analyzing the whole 3D development of the building, meaning that both the roofing and facades are studied. (Calantropio, 121) There are instances where the roof has very low damages, but the facades sustained significantly more damages and vice versa. It is important to study all aspect of a building for accurate results. 
+For instance, the classification method was used for damage assessment in Accumoli, Italy. The classification method is when each pixel in an image is assigned a specific land cover and land use class based on its spectral characteristics. (Pakalniskis, 7) This specific building in Accumoli was classified as “Negligible to slight damage” according to the Copernicus EMS and nadir point of view. However, the UAVs 3D model shows “Negligible to slight damage” on the roof of the building, but the facade of the building sustained significantly more damage which was not identified through nadir point of view. 
+Change detection is another computer vision method in remote sensing. This method requires two or more images of the same area taken at different times to compare and identify changes that occurred. (Pakalniskis, 8) For maximal accuracy, it is important that the images are of the exact same location. The growth of very high resolution data has enhanced the use and quality of remotely sensed data in disaster relief management. Here is an example of an image taken before and after a tsunami. The changes are very obvious to the bare eye, but analysis of smaller areas can also be done. (Bello, 7) 
+
+“Wildfire smoke detection, using video cameras, is challenging because the main characteristics of smoke are constantly uncertain, vague patterns of shape and color.” (Ko, 4) Smoke detection based on support vector machines (SVMs) is more accurate and effective. SVMs are machine learning algorithm that can be used for classification purposes. A hyperplane is created in a high-dimensional space to separate the different classes as much as possible. (Pakalniskis, 11) This method is often used for object detection, in this case smoke detection. From the input image the algorithm will detect color, texture, motion, and shape as feature extraction. This data is then put in a classifier learning, and finally into fire classification.
+ (Ko, 6)
+This figure showcase the capacity of SMVs to differentiate wildfire smoke and smoke-colored clouds. 
+![image](https://user-images.githubusercontent.com/127626824/234704305-b3fe296d-37a4-4fe3-a5ab-75d1f15a1463.png)
+
