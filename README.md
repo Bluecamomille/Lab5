@@ -26,8 +26,8 @@ This figure showcases the capacity of SMVs to differentiate wildfire smoke and s
 
 
 Sources: 
-Bello, Olalekan Mumin, and Yusuf Adedoyin Aina. “Satellite Remote Sensing as a Tool in Disaster Management and Sustainable Development: Towards a Synergistic Approach.” Procedia - Social and Behavioral Sciences, vol. 120, 2014, pp. 365–373., https://doi.org/10.1016/j.sbspro.2014.02.114. 
-Calantropio, A., et al. “UAV Strategies Validation and Remote Sensing Data for Damage Assessment in POST-DISASTER Scenarios.” The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-3/W4, 2018, pp. 121–128., https://doi.org/10.5194/isprs-archives-xlii-3-w4-121-2018. 
-Ko, ByoungChul, and Sooyeong Kwak . “Survey of Computer Vision–Based Natural Disaster Warning Systems.” Optical Engineering, vol. 51, no. 7, 2012, p. 070901., https://doi.org/10.1117/1.oe.51.7.070901. 
-![image](https://user-images.githubusercontent.com/127626824/234705801-78f357bc-a1df-45e1-b66e-58b2eb1557d7.png)
+- Bello, Olalekan Mumin, and Yusuf Adedoyin Aina. “Satellite Remote Sensing as a Tool in Disaster Management and Sustainable Development: Towards a Synergistic Approach.” Procedia - Social and Behavioral Sciences, vol. 120, 2014, pp. 365–373., https://doi.org/10.1016/j.sbspro.2014.02.114. 
+- Calantropio, A., et al. “UAV Strategies Validation and Remote Sensing Data for Damage Assessment in POST-DISASTER Scenarios.” The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-3/W4, 2018, pp. 121–128., https://doi.org/10.5194/isprs-archives-xlii-3-w4-121-2018. 
+- Ko, ByoungChul, and Sooyeong Kwak . “Survey of Computer Vision–Based Natural Disaster Warning Systems.” Optical Engineering, vol. 51, no. 7, 2012, p. 070901., https://doi.org/10.1117/1.oe.51.7.070901. 
+
 
