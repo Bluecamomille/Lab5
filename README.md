@@ -22,6 +22,6 @@ Here is an example of an image taken before and after a tsunami. The changes are
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/127626824/234705312-40e26a33-7270-46e8-bd81-5c8648bf8069.png">(Ko, 6)
 
-This figure showcase the capacity of SMVs to differentiate wildfire smoke and smoke-colored clouds. 
+This figure showcases the capacity of SMVs to differentiate wildfire smoke and smoke-colored clouds. 
 
 
